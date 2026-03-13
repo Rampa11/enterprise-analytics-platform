@@ -6,6 +6,12 @@ This project demonstrates an end-to-end enterprise analytics pipeline that simul
 
 The system ingests operational data, loads it into a PostgreSQL warehouse using a star schema, and generates analytical views that power business dashboards.
 
+## 🚀 Live Demo
+
+Try the Enterprise Analytics Platform here:
+
+👉 **https://enterprise-analytics-platform.streamlit.app/**
+
 ## Architecture
 
 Data Generation → PostgreSQL Warehouse → Analytics Views → Dashboards
