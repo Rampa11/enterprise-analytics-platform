@@ -1,4 +1,4 @@
-# Enterprise Analytics Pipeline
+# Enterprise Analytics Dashboard
 
 ## Overview
 
